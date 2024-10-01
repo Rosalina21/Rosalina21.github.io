@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif; /* Use a clean font */
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove default padding */
+    background-color: #f4f4f4; /* Light grey background */
+}
+
+header {
+    background: #35424a; /* Dark background for header */
+    color: #ffffff; /* White text color */
+    padding: 20px; /* Add space around header */
+    text-align: center; /* Center align text */
+}
+
+#projects {
+    margin: 20px; /* Space around the project section */
+}
+
+h2 {
+    color: #35424a; /* Dark color for headings */
+}
+
+footer {
+    text-align: center; /* Center align footer text */
+    padding: 10px; /* Space around footer */
+    background: #35424a; /* Dark background for footer */
+    color: #ffffff; /* White text color */
+}
